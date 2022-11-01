@@ -6,14 +6,14 @@ from Process.filters import command, other_filters
 from Process.queues import QUEUE, clear_queue
 from Process.main import bot as Client
 from Process.utils import skip_current_song, skip_item
-from RaiChu.config import BOT_USERNAME, GROUP_SUPPORT, IMG_3, UPDATES_CHANNEL, IMG_5
+from ariyanX.config import BOT_USERNAME, GROUP_SUPPORT, IMG_3, UPDATES_CHANNEL, IMG_5
 from pyrogram.types import (
     CallbackQuery,
     InlineKeyboardButton,
     InlineKeyboardMarkup,
     Message,
 )
-from RaiChu.inline import stream_markup
+from ariyanX.inline import stream_markup
 
 bttn = InlineKeyboardMarkup(
     [[InlineKeyboardButton("🔙 Go Back", callback_data="cbmenu")]]
