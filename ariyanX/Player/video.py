@@ -1,8 +1,8 @@
 import re
 import asyncio
 
-from RaiChu.config import ASSISTANT_NAME, BOT_USERNAME, IMG_1, IMG_2, IMG_6
-from RaiChu.inline import stream_markup, audio_markup
+from ariyanX.config import ASSISTANT_NAME, BOT_USERNAME, IMG_1, IMG_2, IMG_6
+from ariyanX.inline import stream_markup, audio_markup
 from Process.design.chatname import CHAT_TITLE
 from Process.filters import command, other_filters
 from Process.queues import QUEUE, add_to_queue
