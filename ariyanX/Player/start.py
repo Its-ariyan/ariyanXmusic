@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
-from RaiChu.config import (
+from ariyanX.config import (
     ASSISTANT_NAME,
     BOT_NAME,
     BOT_USERNAME,
