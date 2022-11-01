@@ -1,7 +1,7 @@
 from typing import Callable
 from pyrogram import Client
 from pyrogram.types import Message
-from RaiChu.config import SUDO_USERS
+from ariyanX.config import SUDO_USERS
 from Process.admins import get_administrators
 
 
