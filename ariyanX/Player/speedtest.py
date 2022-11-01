@@ -7,7 +7,7 @@ from pyrogram.types import Message
 from pyrogram import filters, Client
 
 from Process.main import bot as app
-from RaiChu.config import SUDO_USERS as SUDOERS
+from ariyanX.config import SUDO_USERS as SUDOERS
 
 @app.on_message(filters.command("speedtest") & ~filters.edited)
 async def run_speedtest(_, message):
