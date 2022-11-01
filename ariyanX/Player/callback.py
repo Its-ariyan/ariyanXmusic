@@ -2,7 +2,7 @@ import yt_dlp
 from Process.queues import QUEUE
 from pyrogram import Client, filters
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
-from RaiChu.config import (
+from ariyanX.config import (
     ASSISTANT_NAME,
     BOT_NAME,
     BOT_USERNAME,
@@ -10,7 +10,7 @@ from RaiChu.config import (
     OWNER_NAME,
     UPDATES_CHANNEL,
 )
-from RaiChu.inline import menu_markup, song_download_markup, stream_markup, audio_markup
+from ariyanX.inline import menu_markup, song_download_markup, stream_markup, audio_markup
 
 @Client.on_callback_query(filters.regex("cbstart"))
 async def cbstart(_, query: CallbackQuery):
