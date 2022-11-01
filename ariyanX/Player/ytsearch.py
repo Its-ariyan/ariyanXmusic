@@ -1,5 +1,5 @@
 import logging
-from RaiChu.config import BOT_USERNAME
+from ariyanX.config import BOT_USERNAME
 from Process.filters import command, other_filters
 from pyrogram import Client
 from pyrogram.types import (
