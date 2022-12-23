@@ -36,7 +36,8 @@
 
 ### 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐓𝐡𝐞𝐢𝐫 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 🥳
 
-- [Prince Ariyan](https://t.me/Prince_ariyan_143)
+- [Its-Ariyan](https://t.me/Prince_ariyan_143)
+- [Null Coder](https://t.me/NullCoder)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
@@ -47,10 +48,3 @@
 
 </a> <a href="https://t.me/NixaWorld"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-### 𝐎𝐰𝐧𝐞𝐫 (𝐑𝐞𝐛𝐮𝐢𝐥𝐝 𝐖𝐢𝐭𝐡 𝐍𝐞𝐰 𝐃𝐞𝐬𝐢𝐠𝐧) 𝐎𝐟 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐬𝐭𝐢𝐨𝐫𝐲
-[![Prince Ariyan ](https://te.legra.ph/file/7bebb843e11408e0a42db.jpg)](https://t.me/Prince_ariyan_143)
-
-
-#### 🥀 𝐃𝐞𝐚𝐫 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 ✅ 𝐘𝐨𝐮 𝐂𝐚𝐧 𝐄𝐝𝐢𝐭 𝐚𝐧𝐝 𝐌𝐨𝐝𝐢𝐟𝐲 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨 𝐀𝐬 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 🌿 𝐁𝐮𝐭 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐮𝐬𝐭 𝐆𝐢𝐯𝐞 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 ✨ ...
