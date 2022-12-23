@@ -5,7 +5,7 @@ from Process.main import call_py, bot
 async def start_bot():
     print("[INFO]: STARTING BOT CLIENT")
     await bot.start()
-    print("[INFO]: STARTING PYTGCALLS CLIENT")
+    print("[INFO]: YOUR BOT SUCCESSFULLY START, PLEASE VESIT : @NixaWorld")
     await call_py.start()
     await idle()
     print("[INFO]: STOPPING BOT & USERBOT")
