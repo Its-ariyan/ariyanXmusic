@@ -34,7 +34,7 @@ Feel free to add me to your groups.
                     ),
                   ],[
                     InlineKeyboardButton(
-                       "Updates", url=f"https://t.me/ariyan_server"
+                       "Updates", url=f"https://t.me/NixaWorld"
                     ),
                     InlineKeyboardButton(
                        "Support", url=f"https://t.me/{GROUP_SUPPORT}"
