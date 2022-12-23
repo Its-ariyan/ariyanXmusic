@@ -1,16 +1,16 @@
 ### 🥀 𝐁𝐞𝐬𝐭 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐚𝐧𝐝 𝐒𝐦𝐚𝐫𝐭 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭 𝐒𝐨𝐮𝐫𝐜𝐞 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐆𝐫𝐨𝐮𝐩𝐬 𝐚𝐧𝐝 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✨...
 
-<p align="center"><a href="https://t.me/Prince_ariyan_143"><img src="https://te.legra.ph/file/617d945d4eecc297a37ab.jpg"></a></p>
+<p align="center"><a href="https://t.me/NixaWorld"><img src="https://te.legra.ph/file/617d945d4eecc297a37ab.jpg"></a></p>
 
 
 ### 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐅𝐫𝐨𝐦 𝐇𝐞𝐫𝐞
 
-[![GenerateString](https://te.legra.ph/file/8d507dd508370dc936652.png)](https://t.me/STRINGSESSIONXBOT)
+[![GenerateString](https://te.legra.ph/file/8d507dd508370dc936652.png)](https://t.me/NixaStringRobot)
 
 
 ### 𝐓𝐡𝐞 𝐄𝐚𝐬𝐢𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐇𝐨𝐬𝐭 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭, 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮, 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐡𝐞 𝐀𝐩𝐩 𝐂𝐨𝐮𝐧𝐭𝐫𝐲 𝐓𝐨 𝐔𝐧𝐢𝐭𝐞𝐝 𝐒𝐭𝐚𝐭𝐞𝐬 (𝐈𝐭 𝐖𝐢𝐥𝐥 𝐇𝐞𝐥𝐩 𝐓𝐨 𝐌𝐚𝐤𝐞 𝐓𝐡𝐞 𝐁𝐨𝐭 𝐌𝐨𝐫𝐞 𝐒𝐭𝐚𝐛𝐥𝐞)
 
-[![deploy to heroku](https://te.legra.ph/file/b9ff11d894403d808a716.jpg)](https://heroku.com/deploy?template=https://github.com/Prince-ariyan-143/ariyanXmusic)
+[![deploy to heroku](https://te.legra.ph/file/b9ff11d894403d808a716.jpg)](https://heroku.com/deploy?template=https://github.com/Its-ariyan/NixaXMusic)
 
 
 ## 𝐕𝐩𝐬 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭
