@@ -46,12 +46,12 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": false,
-            "value": "ariyan_discus"
+            "value": "SankiWorldMF"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": false,
-            "value": "ariyan_server"
+            "value": "NixaWorld"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
