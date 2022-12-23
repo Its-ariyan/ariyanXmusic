@@ -23,7 +23,7 @@
 - sudo curl -sL https://deb.nodesource.com/setup_17.x | sudo bash -
 - sudo apt-get install -y nodejs
 - sudo npm i -g npm
-- git clone https://github.com/its-ariyan/ariyanXmusic  #Clone your repo.
+- git clone https://github.com/its-ariyan/ariyanXmusic
 - cd ariyanXmusic 
 - sudo pip3 install --upgrade pip
 - sudo pip3 install -U -r requirements.txt
