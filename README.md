@@ -20,11 +20,11 @@
 
 - sudo apt update && apt upgrade -y 
 - sudo apt install python3-pip ffmpeg -y
-- sudo curl -sL https://deb.nodesource.com/setup_17.x | sudo bash -
+- sudo curl -sL https://deb.nodesource.com/setup_18.x | sudo bash -
 - sudo apt-get install -y nodejs
 - sudo npm i -g npm
-- git clone https://github.com/its-ariyan/ariyanXmusic
-- cd ariyanXmusic 
+- git clone https://github.com/its-ariyan/NixaXMusic
+- cd NixaXMusic 
 - sudo pip3 install --upgrade pip
 - sudo pip3 install -U -r requirements.txt
 - sudo python3 main.py
