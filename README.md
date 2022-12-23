@@ -23,7 +23,7 @@
 - sudo curl -sL https://deb.nodesource.com/setup_17.x | sudo bash -
 - sudo apt-get install -y nodejs
 - sudo npm i -g npm
-- git clone https://github.com/Prince-ariyan-143/ariyanXmusic  #Clone your repo.
+- git clone https://github.com/its-ariyan/ariyanXmusic  #Clone your repo.
 - cd ariyanXmusic 
 - sudo pip3 install --upgrade pip
 - sudo pip3 install -U -r requirements.txt
@@ -37,16 +37,15 @@
 ### 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐓𝐡𝐞𝐢𝐫 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 🥳
 
 - [Prince Ariyan](https://t.me/Prince_ariyan_143)
-- [Null Coder](https://t.me/MeCorw)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
 </details> </h3>
 
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀
-<a href="https://t.me/ariyan_discus"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/SankiWorldMF"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
-</a> <a href="https://t.me/ariyan_server"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</a> <a href="https://t.me/NixaWorld"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
